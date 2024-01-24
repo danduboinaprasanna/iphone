@@ -1,0 +1,72 @@
+
+body
+{
+    overflow-x: hidden;
+}
+.cur
+{
+    height: 90vh;
+}
+.pr
+{
+    width: 100%;
+}
+.lak
+{
+    padding: 30px;
+    color: rgb(197, 41, 104);
+}
+.sam
+{
+    padding: 30px;
+    color: rgb(47, 85, 8);
+}
+.sar
+{
+    font-size: 40px;
+    margin-left: 80%;
+}
+/* .pha :hover
+{
+transform: scale(1.1);
+} */
+/* .mac :hover
+{
+    transform: scale(1.05);
+   
+}
+.yam :hover
+{
+    transform: scale(0.9);
+   
+} */
+/* .sri :hover
+{
+    transform: scale(1.05);
+} */
+
+.card:hover{
+transform: scale(1.04);
+
+
+}
+.kil
+{
+    margin-left: 900px;
+    font-size: 25px;
+}
+.m1
+{
+    /* border-radius: 10px;
+    box-shadow: 2px 2px 2px rgb(20, 20, 20); */
+}
+.lakone
+{
+    color: darkslategray;
+}
+.m3
+{
+    padding-left: 5%;
+    color: brown;
+    font-size: 30px;
+}
